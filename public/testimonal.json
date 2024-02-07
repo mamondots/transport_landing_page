@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Kathleen Smith",
+        "title":"Fuel Company",
+        "feedback":"Leverage agile frameworks to provide a robust synopsis for strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+        "rating":"3",
+        "img":"https://i.ibb.co/4p0GF2L/User-1.png"
+    },
+    {
+        "name":"John Martin",
+        "title":"Restoration Company",
+        "feedback":"Leverage agile frameworks to provide a robust synopsis for strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+        "rating":"4",
+        "img":"https://i.ibb.co/nrKRd92/User.png"
+    },
+    {
+        "name":"Al Mamon",
+        "title":"Fuel Company",
+        "feedback":"Leverage agile frameworks to provide a robust synopsis for strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+        "rating":"5",
+        "img":"https://i.ibb.co/4p0GF2L/User-1.png"
+    },
+    {
+        "name":"Sydur Rahman",
+        "title":"Restoration Company",
+        "feedback":"Leverage agile frameworks to provide a robust synopsis for strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+        "rating":"3.6",
+        "img":"https://i.ibb.co/nrKRd92/User.png"
+    },
+    {
+        "name":"Jack Janson",
+        "title":"Lovesite Company",
+        "feedback":"Leverage agile frameworks to provide a robust synopsis for strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.",
+        "rating":"4.5",
+        "img":"https://i.ibb.co/4p0GF2L/User-1.png"
+    }
+]
